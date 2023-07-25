@@ -256,7 +256,7 @@ section {
  * =================================================================== */
 
 footer {
-    display: block;
+    display: flex;
     position: static;
     bottom: 0;
     background-color: DarkSlateGray;
