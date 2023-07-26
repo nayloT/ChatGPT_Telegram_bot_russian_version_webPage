@@ -173,7 +173,11 @@
 
 .social-footer {
     position: block;
-    padding: 150px;
+    padding: ;
+    padding-top: 15px;
+    padding-right: 150px;
+    padding-bottom: 150px;
+    padding-left: 150px;
 }
 
 .social-footer a {
