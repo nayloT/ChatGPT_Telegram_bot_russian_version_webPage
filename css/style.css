@@ -257,12 +257,11 @@ section {
 
 footer {
     display: block;
-    position: fixed;
-    bottom: 0px;
+    position: static;
+    bottom: 0;
     background-color: DarkSlateGray;
     color: #fff;
-    height: 50px;
-    margin-bottom: 0px;
+    padding: 50px;
 
 }
 
