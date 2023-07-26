@@ -266,7 +266,7 @@ footer {
 }
 
 footer a {
- display: inline
+ display: inline-block
 }
 
 footer p {
