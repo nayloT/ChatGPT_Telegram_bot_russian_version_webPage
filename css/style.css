@@ -256,7 +256,7 @@ section {
  * =================================================================== */
 
 footer {
-    display: inline
+    display: block
     position: static;
     bottom: 0;
     background-color: DarkSlateGray;
@@ -266,7 +266,7 @@ footer {
 }
 
 footer a {
- display: inline
+ display: 
 }
 
 footer p {
