@@ -164,7 +164,7 @@
 .social a {
   color: white;
   text-decoration:none;
-  padding: 200em;
+  padding: 2em;
 }
 
 .social a:hover{
@@ -352,7 +352,7 @@ footer p {
 
 @media (max-width: 480px) {
     .social a {
-        padding: 0.4em;
+        padding: 8.4em;
         font-size: 0.9em;
     }
 
