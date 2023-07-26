@@ -266,7 +266,7 @@ footer {
 }
 
 footer a {
- display: table
+ display: table-caption
 }
 
 footer p {
