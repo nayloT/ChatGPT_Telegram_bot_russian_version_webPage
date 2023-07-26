@@ -256,13 +256,17 @@ section {
  * =================================================================== */
 
 footer {
-    display: none
+    display: block
     position: static;
     bottom: 0;
     background-color: DarkSlateGray;
     color: #fff;
     padding: 50px;
 
+}
+
+footer a {
+ display: none
 }
 
 footer p {
