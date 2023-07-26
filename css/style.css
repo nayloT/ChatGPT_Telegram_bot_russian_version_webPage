@@ -266,7 +266,7 @@ footer {
 }
 
 footer a {
- display: list-item
+ display: table
 }
 
 footer p {
