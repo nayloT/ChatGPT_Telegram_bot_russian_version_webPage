@@ -257,7 +257,7 @@ section {
 
 footer {
     display: block;
-    position: static;
+    position: flex;
     bottom: 0;
     background-color: DarkSlateGray;
     color: #fff;
