@@ -266,7 +266,7 @@ footer {
 }
 
 footer a {
- display: none
+ display: flex
 }
 
 footer p {
