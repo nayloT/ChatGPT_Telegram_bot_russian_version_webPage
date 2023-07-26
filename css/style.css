@@ -266,7 +266,7 @@ footer {
 }
 
 footer a {
- display: inline-flex
+ display: inline-table
 }
 
 footer p {
