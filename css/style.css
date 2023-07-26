@@ -266,7 +266,7 @@ footer {
 }
 
 footer a {
- display: table-row
+ display: inherit
 }
 
 footer p {
